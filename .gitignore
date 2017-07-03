@@ -73,3 +73,14 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+BattleTanksGame/Binaries/
+BattleTanksGame/Content/
+BattleTanksGame/Intermediate/
+BattleTanksGame/Saved/AutoScreenshot.png
+BattleTanksGame/Saved/Autosaves/PackageRestoreData.json
+BattleTanksGame/Saved/Autosaves/
+BattleTanksGame/Saved/Backup/BattleGround_2017-06-28-13-22-48.umap
+*.umap
+BattleTanksGame/Saved/
+BattleTanksGame/Tank Parts/
+BattleTanksGame/Config/DefaultInput.ini
